@@ -39,12 +39,9 @@ Python과 PyTorch를 사용해 이미지 데이터를 다루는 방법을 익히
 
 
 
-## 스터디 구성원
+## 예비대학 구성원
 > 멘토진 : [김기현](https://github.com/monozu-deving), [서동주](https://github.com/PoorMagic), [조치연](https://github.com/chiyeon01), [지준구](https://github.com/Jun9u), [이정연](https://github.com/JungYeoni)
 
-
-<br> <br>
-
-## 스터디 규칙
+## 예비대학 규칙
 - 비대면 수업 중 무단 이탈, 장시간 비활성 상태는 지각 또는 결석으로 처리될 수 있습니다.
 - 원활한 실습을 위해 수업 중 적극적인 참여를 권장합니다.
