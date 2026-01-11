@@ -40,8 +40,9 @@ Python과 PyTorch를 사용해 이미지 데이터를 다루는 방법을 익히
 
 
 ## 예비대학 구성원
-> 멘토진 : [김기현](https://github.com/monozu-deving), [서동주](https://github.com/PoorMagic), [조치연](https://github.com/chiyeon01), [지준구](https://github.com/Jun9u), [이정연](https://github.com/JungYeoni)
-> 멘티진: 김명수, 김민재, 박서현, 홍석준, 이채환
+> **멘토진** : [김기현](https://github.com/monozu-deving), [서동주](https://github.com/PoorMagic), [조치연](https://github.com/chiyeon01), [지준구](https://github.com/Jun9u), [이정연](https://github.com/JungYeoni)
+
+> **멘티진**: 김명수, 김민재, 박서현, 홍석준, 이채환
 
 
 ## 예비대학 규칙
