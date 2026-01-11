@@ -40,8 +40,7 @@ Python과 PyTorch를 사용해 이미지 데이터를 다루는 방법을 익히
 
 
 ## 스터디 구성원
-> 멘토진 : 김기현, 서동주, 조치연, 지준구, 이정연
-> 
+> 멘토진 : [김기현](https://github.com/monozu-deving), [서동주](https://github.com/PoorMagic), [조치연](https://github.com/chiyeon01), [지준구](https://github.com/Jun9u), [이정연](https://github.com/JungYeoni)
 
 
 <br> <br>
